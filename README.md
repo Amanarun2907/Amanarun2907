@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
 
 <h3 align="center">
@@ -5,14 +6,22 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Research;Computer+Vision+%7C+Time+Series+%7C+Explainable+AI;Building+Intelligent+Systems+for+Real-World+Impact;Transforming+Data+into+AI-Powered+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+AI+Research;Computer+Vision+%7C+Time+Series+%7C+Explainable+AI;Building+Intelligent+Systems+for+Real-World+Impact;Transforming+Data+into+AI-Powered+Solutions;Research+•+Innovation+•+Intelligence+•+Impact" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amanarun2907&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amanarun2907&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aman%20Jain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+</div>
 
 ---
 
@@ -32,6 +41,7 @@
 - Financial Intelligence Platforms
 - AI for Agriculture & Sustainability
 - Time Series Forecasting
+- Multi-Agent AI Systems
 
 🏆 Reliance Foundation Scholar & Student Mentor  
 🏅 Top Performer — LNMIIT HackCrux 2025  
@@ -44,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,mysql,git,github,vscode,linux&theme=dark" />
 
 </p>
 
@@ -271,17 +281,19 @@ Building intelligent environmental monitoring systems.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amanarun2907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanarun2907&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanarun2907&theme=tokyonight&hide_border=true" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanarun2907&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
 
 </p>
 
 ---
 
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanarun2907&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://streak-stats.demolab.com?user=Amanarun2907&theme=github-dark-blue&hide_border=true&background=00000000" />
 
 </p>
 
@@ -290,7 +302,9 @@ Building intelligent environmental monitoring systems.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanarun2907&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanarun2907&theme=github-compact&hide_border=true&bg_color=00000000" />
+
 </p>
 
 ---
@@ -298,7 +312,9 @@ Building intelligent environmental monitoring systems.
 # 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amanarun2907&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amanarun2907&theme=algolia&no-frame=true&row=1&column=7" />
+
 </p>
 
 ---
@@ -308,7 +324,7 @@ Building intelligent environmental monitoring systems.
 <p align="center">
 
 <a href="https://github.com/Amanarun2907">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aman-jain-07449a221">
@@ -323,12 +339,21 @@ Building intelligent environmental monitoring systems.
 
 <p align="center">
 
-✨ “Transforming data into intelligent systems that create real-world impact.” ✨
+✨ <i>"Transforming data into intelligent systems that create real-world impact."</i> ✨
 
 </p>
 
 ---
 
-<h3 align="center">
-🚀 Research • Innovation • Intelligence • Impact 🚀
-</h3>
+<div align="center">
+
+## 🚀 Research • Innovation • Intelligence • Impact 🚀
+
+</div>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
+```
